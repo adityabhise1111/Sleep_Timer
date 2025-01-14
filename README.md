@@ -1,2 +1,1 @@
-# Sleep_Timer
-This is the web extension for brower to set timer to sleep on time
+# Sleep_TimerEnhance your browsing experience with our intuitive web extension that helps you set sleep timers effortlessly. Ensure you get the rest you need by scheduling timely reminders to wind down and sleep on time.
